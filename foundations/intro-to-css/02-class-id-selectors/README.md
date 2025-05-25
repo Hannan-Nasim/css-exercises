@@ -21,5 +21,9 @@ Quick tip: in VS Code, you can change which format colors are displayed in RGB, 
 
 ### Self Check
 - Do the odd numbered `p` elements share a class?
+- Answer: yes
 - Do the even numbered `div` elements have unique IDs?
+- Answer: yes
 - Does the Number 3 element have multiple classes?
+- Answer: yes
+- Self Marking Status: Almost everything was perfect except the duplicate code so I gave third and fourth element same class for font size property.
