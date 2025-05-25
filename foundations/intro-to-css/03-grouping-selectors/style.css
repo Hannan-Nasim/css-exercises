@@ -6,3 +6,8 @@
 .second-button-element{
     background-color: yellow;
 }
+
+.first-button-element, .second-button-element{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
