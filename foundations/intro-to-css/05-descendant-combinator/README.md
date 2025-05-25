@@ -15,4 +15,7 @@ The properties you need to add are:
 
 ### Self Check
 - Do the elements that contain the text "This should be styled" have the correct styles applied?
+- Answer: I made a mistake here the styles were applied to the whole div instead of specific elements"
 - Do the elements that contain the text "This should be unstyled" have no styles applied?
+- Answer: Yes they were not styled
+- Self Marking Status: Though the correct styles were applied but the issue was they were div based not the element based so this can cause every element in the div to have the same style, they were corrected after comparing with the solution"
