@@ -21,4 +21,5 @@ This will help you further practice adding classes and using class selectors, so
 - Did you make separate rules for the styles unique to each element?
 - Answer: Yes
 - Self Marking Status: I got the desired output but naming convention of classes can be improved like more meaningful also I feel like there is a difference between how the selectors are placed like group selectors are on top in solution.css and unique selectors are below for now I don't now if it matters or not but maybe there can be a good reason behind it so making a change in styles.css by moving group selectors on top of the file"
+- Note: I asked ChatGPT for where you should place group selectors in CSS file, I shouldn't have asked though ChatGPT use is not allowed in TOP, but it was for just knowing the best practices like bit more advanced kind of thing idk for me it is clean code does matter, so the answer to it is they must be placed logically like place them near related rules.
 
