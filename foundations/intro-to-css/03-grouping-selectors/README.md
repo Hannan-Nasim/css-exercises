@@ -15,5 +15,10 @@ This will help you further practice adding classes and using class selectors, so
 ### Self Check
 
 - Does each element have a unique class name?
+- Answer: Yes
 - Did you use the grouping selector for styles that both elements share?
+- Answer: Yes
 - Did you make separate rules for the styles unique to each element?
+- Answer: Yes
+- Self Marking Status: I got the desired output but naming convention of classes can be improved like more meaningful also I feel like there is a difference between how the selectors are placed like group selectors are on top in solution.css and unique selectors are below for now I don't now if it matters or not but maybe there can be a good reason behind it so making a change in styles.css by moving group selectors on top of the file"
+
