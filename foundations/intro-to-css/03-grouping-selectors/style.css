@@ -1,3 +1,8 @@
+.first-button-element, .second-button-element{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
 .first-button-element{
     background-color: black;
     color: white;
@@ -5,9 +10,4 @@
 
 .second-button-element{
     background-color: yellow;
-}
-
-.first-button-element, .second-button-element{
-    font-size: 28px;
-    font-family: Helvetica, 'Times New Roman', sans-serif;
 }
