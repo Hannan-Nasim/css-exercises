@@ -8,7 +8,13 @@ For this first exercise, simply edit the `style.css` file so that the divs look 
 Use this section to check your work. On _these_ projects, your goal isn't to attain 100% pixel perfection, but to use the tools you've learned to get relatively close to the desired output.
 
 - Div One and Div Three have 32px between their text and border.
+- Answer: Yes
 - Div One has 12px between it and any other element on the page.
+- Answer: Yes
 - There is a 48px gap between Div Two and Div Three.
+- Answer: Yes
 - Div Three is aligned to the right.
+- Answer: Yes
 - Div Three's alignment is achieved using `margin` (and not float, flexbox, etc.).
+- Answer: Yes
+- Self Marking Status: Almost all of the tasks were completed successfully but for the last part I hardcoded the pixel value but in the solutions it was done using margin-left property. 
